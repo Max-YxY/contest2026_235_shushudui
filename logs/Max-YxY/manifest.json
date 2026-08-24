@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "team_id": "contest2026_235_shushudui",
+  "github_login": "Max-YxY",
+  "generator": "codex-sanitized-claude-export",
+  "sessions": [
+    {
+      "session_id": "5a3b2e7a-3b88-4eef-8010-cc526bb74871",
+      "tool": "claude-code",
+      "started_at": "07/29/2026 13:02:41",
+      "last_event_at": "08/03/2026 07:14:18",
+      "event_count": 2583,
+      "file_path": "logs/Max-YxY/2026-07-29/claude-code__5a3b2e7a-3b88-4eef-8010-cc526bb74871.jsonl",
+      "collection_mode": "claude-project-jsonl-normalized",
+      "health": "ok"
+    },
+    {
+      "session_id": "f40720fa-e533-4b07-9bad-bcfa1d4134a6",
+      "tool": "claude-code",
+      "started_at": "07/30/2026 01:01:13",
+      "last_event_at": "07/30/2026 01:02:09",
+      "event_count": 6,
+      "file_path": "logs/Max-YxY/2026-07-30/claude-code__f40720fa-e533-4b07-9bad-bcfa1d4134a6.jsonl",
+      "collection_mode": "claude-project-jsonl-normalized",
+      "health": "ok"
+    }
+  ],
+  "updated_at": "2026-08-24T05:16:51.2922160+00:00"
+}
