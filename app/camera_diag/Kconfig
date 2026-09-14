@@ -1,0 +1,58 @@
+#
+# Contest 2026 team 235 shushudui - camera_diag (energy label inspection)
+#
+
+config EXAMPLES_CAMERA_DIAG
+	bool "ESP32-P4 Energy Label AI Inspection Terminal (camera_diag)"
+	default n
+	select ML_TFLITE_MICRO if EXAMPLES_CAMERA_DIAG_TFLM_SUPPORT
+	---help---
+		Enable the ESP32-P4 camera diagnostic and energy label AI inspection
+		application with DSI display, GT911 touch, and TFLite Micro inference.
+
+if EXAMPLES_CAMERA_DIAG
+
+config EXAMPLES_CAMERA_DIAG_STACKSIZE
+	int "camera_diag stack size"
+	default 16384
+	range 4096 65536
+
+config EXAMPLES_CAMERA_DIAG_PRIORITY
+	int "camera_diag task priority"
+	default 100
+	range 1 255
+
+config EXAMPLES_CAMERA_DIAG_FRAME_WIDTH
+	int "Camera frame width"
+	default 1280
+
+config EXAMPLES_CAMERA_DIAG_FRAME_HEIGHT
+	int "Camera frame height"
+	default 720
+
+config EXAMPLES_CAMERA_DIAG_TFLM_SUPPORT
+	bool "Enable TFLite Micro inference support"
+	default n
+	---help---
+		Enable TFLite Micro runtime for on-device AI inference.
+		Requires mlearning/tflite-micro in the apps tree.
+
+config EXAMPLES_CAMERA_DIAG_AUTOSTART_STATUS_UI
+	bool "Auto-start status UI on boot"
+	default n
+	---help---
+		Auto-start the persistent status UI at system boot via ROMFS rcS.
+
+config EXAMPLES_CAMERA_DIAG_DSI_PANEL_EK79007
+	bool "EK79007 DSI panel support"
+	default y
+
+config EXAMPLES_CAMERA_DIAG_TOUCH_GT911
+	bool "GT911 touch support"
+	default y
+
+config EXAMPLES_CAMERA_DIAG_CAMERA_SC2336
+	bool "SC2336 camera support"
+	default y
+
+endif # EXAMPLES_CAMERA_DIAG

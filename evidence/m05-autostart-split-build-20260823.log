@@ -1,0 +1,172 @@
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/tools'
+make[1]: 'mkconfig' is up to date.
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/tools'
+make[1]: Entering directory '/home/max/openvela-p4-integration/apps'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/builtin'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/builtin'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/examples/camera_diag'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/examples/camera_diag'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/examples/imx219_probe'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/examples/imx219_probe'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/math/gemmlowp'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/math/gemmlowp'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/math/kissfft'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/math/kissfft'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/math/ruy'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/math/ruy'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/mlearning/tflite-micro'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/mlearning/tflite-micro'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/nshlib'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/nshlib'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/platform'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/platform'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/system/dumpstack'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/system/dumpstack'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/system/flatbuffers'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/system/flatbuffers'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/system/nsh'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/system/nsh'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/system/readline'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/system/readline'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/testing/ostest'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/testing/ostest'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/testing/sched/getprime'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/testing/sched/getprime'
+make[1]: Leaving directory '/home/max/openvela-p4-integration/apps'
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/sched'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/sched'
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/drivers'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/drivers'
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/boards'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/boards'
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/arch/risc-v/src'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/arch/risc-v/src'
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/fs'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/fs'
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/binfmt'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/binfmt'
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/libs/libc'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/libs/libc'
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/mm'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/mm'
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/libs/libm'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/libs/libm'
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/libs/libxx'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/libs/libxx'
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/sched'
+make[1]: 'libsched.a' is up to date.
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/sched'
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/drivers'
+make[1]: 'libdrivers.a' is up to date.
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/drivers'
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/boards'
+make[1]: 'libboards.a' is up to date.
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/boards'
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/libs/libc'
+CC:  misc/lib_utsname.c 
+riscv32-unknown-elf-ar rcs  libc.a     bin/lib_assert.o  bin/lib_stackchk.o  bin/lib_builtin_getname.o  bin/lib_builtin_isavail.o  bin/lib_builtin_forindex.o  bin/lib_isalnum.o  bin/lib_isalpha.o  bin/lib_isascii.o  bin/lib_isblank.o  bin/lib_iscntrl.o  bin/lib_isdigit.o  bin/lib_isgraph.o  bin/lib_islower.o  bin/lib_isprint.o  bin/lib_ispunct.o  bin/lib_isspace.o  bin/lib_isupper.o  bin/lib_isxdigit.o  bin/lib_tolower.o  bin/lib_toupper.o  bin/lib_ctype.o  bin/lib_readdirr.o  bin/lib_telldir.o  bin/lib_alphasort.o  bin/lib_scandir.o  bin/lib_ftw.o  bin/lib_nftw.o  bin/lib_opendir.o  bin/lib_fdopendir.o  bin/lib_closedir.o  bin/lib_readdir.o  bin/lib_rewinddir.o  bin/lib_seekdir.o  bin/lib_dirfd.o  bin/lib_versionsort.o  bin/lib_dlfind_object.o  bin/env_getenvironptr.o  bin/env_dup.o  bin/env_release.o  bin/env_findvar.o  bin/env_removevar.o  bin/env_clearenv.o  bin/env_getenv.o  bin/env_putenv.o  bin/env_setenv.o  bin/env_unsetenv.o  bin/env_foreach.o  bin/lib_errno.o  bin/lib_fixedmath.o  bin/lib_b16sin.o  bin/lib_b16cos.o  bin/lib_b16atan2.o  bin/lib_ubsqrt.o  bin/lib_getgrgid.o  bin/lib_getgrgidr.o  bin/lib_getgrnam.o  bin/lib_getgrnamr.o  bin/lib_initgroups.o  bin/lib_getgrbuf.o  bin/lib_getgrbufr.o  bin/lib_imaxabs.o  bin/lib_imaxdiv.o  bin/lib_strtoimax.o  bin/lib_strtoumax.o  bin/lib_basename.o  bin/lib_dirname.o  bin/lib_bitmap.o  bin/lib_circbuf.o  bin/lib_creat.o  bin/lib_mknod.o  bin/lib_umask.o  bin/lib_utsname.o  bin/lib_getrandom.o  bin/lib_xorshift128.o  bin/lib_tea_encrypt.o  bin/lib_tea_decrypt.o  bin/lib_cxx_initialize.o  bin/lib_impure.o  bin/lib_memfd.o  bin/lib_fchmodat.o  bin/lib_fstatat.o  bin/lib_getfullpath.o  bin/lib_openat.o  bin/lib_mkdirat.o  bin/lib_utimensat.o  bin/lib_mallopt.o  bin/lib_idr.o  bin/lib_getnprocs.o  bin/lib_ratelimit.o  bin/lib_lrucache.o  bin/lib_sem_mutex_noinline.o  bin/lib_tempbuffer.o  bin/lib_umul32.o  bin/lib_umul64.o  bin/lib_umul32x64.o  bin/lib_uadd32x64.o  bin/lib_uadd64.o  bin/lib_usub64x32.o  bin/lib_usub64.o  bin/lib_dumpbuffer.o  bin/lib_dumpvbuffer.o  bin/lib_fnmatch.o  bin/lib_debug.o  bin/lib_crc64.o  bin/lib_crc32.o  bin/lib_crc16.o  bin/lib_crc16ccitt.o  bin/lib_crc8.o  bin/lib_crc8ccitt.o  bin/lib_crc8table.o  bin/lib_crc8rohc.o  bin/lib_crc8h1d.o  bin/lib_crc8h2f.o  bin/lib_crc16h1021.o  bin/lib_crc16h8005.o  bin/lib_crc32h04c11db7.o  bin/lib_crc32hf4acfb13.o  bin/lib_crc64emac.o  bin/lib_backtrace.o  bin/lib_ftok.o  bin/lib_err.o  bin/lib_instrument.o  bin/lib_glob.o  bin/lib_fdcheck.o  bin/lib_addrconfig.o  bin/lib_base64.o  bin/lib_htons.o  bin/lib_htonl.o  bin/lib_htonq.o  bin/lib_inetaddr.o  bin/lib_inetaton.o  bin/lib_inetntoa.o  bin/lib_inetntop.o  bin/lib_inetpton.o  bin/lib_inetnetwork.o  bin/lib_obstack_init.o  bin/lib_obstack_alloc.o  bin/lib_obstack_copy.o  bin/lib_obstack_free.o  bin/lib_obstack_make_room.o  bin/lib_obstack_blank.o  bin/lib_obstack_grow.o  bin/lib_obstack_finish.o  bin/lib_obstack_object_size.o  bin/lib_obstack_room.o  bin/lib_obstack_printf.o  bin/lib_obstack_vprintf.o  bin/lib_obstack_malloc.o  bin/pthread_keycreate.o  bin/pthread_setspecific.o  bin/pthread_getspecific.o  bin/pthread_keydelete.o  bin/pthread_attr_init.o  bin/pthread_attr_destroy.o  bin/pthread_attr_setschedpolicy.o  bin/pthread_attr_getschedpolicy.o  bin/pthread_attr_setinheritsched.o  bin/pthread_attr_getinheritsched.o  bin/pthread_attr_setdetachstate.o  bin/pthread_attr_getdetachstate.o  bin/pthread_attr_setstackaddr.o  bin/pthread_attr_getstackaddr.o  bin/pthread_attr_setstacksize.o  bin/pthread_attr_getstacksize.o  bin/pthread_attr_setstack.o  bin/pthread_attr_getstack.o  bin/pthread_attr_setschedparam.o  bin/pthread_attr_getschedparam.o  bin/pthread_attr_setscope.o  bin/pthread_attr_getscope.o  bin/pthread_attr_setguardsize.o  bin/pthread_attr_getguardsize.o  bin/pthread_barrierattr_init.o  bin/pthread_barrierattr_destroy.o  bin/pthread_barrierattr_getpshared.o  bin/pthread_barrierattr_setpshared.o  bin/pthread_barrierinit.o  bin/pthread_barrierdestroy.o  bin/pthread_barrierwait.o  bin/pthread_condattr_init.o  bin/pthread_condattr_destroy.o  bin/pthread_condattr_getpshared.o  bin/pthread_condattr_setpshared.o  bin/pthread_condattr_setclock.o  bin/pthread_condattr_getclock.o  bin/pthread_condinit.o  bin/pthread_conddestroy.o  bin/pthread_condtimedwait.o  bin/pthread_condbroadcast.o  bin/pthread_condclockwait.o  bin/pthread_condsignal.o  bin/pthread_condwait.o  bin/pthread_create.o  bin/pthread_equal.o  bin/pthread_exit.o  bin/pthread_kill.o  bin/pthread_setname_np.o  bin/pthread_getname_np.o  bin/pthread_get_stackaddr_np.o  bin/pthread_get_stacksize_np.o  bin/pthread_mutexattr_init.o  bin/pthread_mutexattr_destroy.o  bin/pthread_mutexattr_getpshared.o  bin/pthread_mutexattr_setpshared.o  bin/pthread_mutexattr_setprotocol.o  bin/pthread_mutexattr_getprotocol.o  bin/pthread_mutexattr_settype.o  bin/pthread_mutexattr_gettype.o  bin/pthread_mutexattr_setrobust.o  bin/pthread_mutexattr_getrobust.o  bin/pthread_mutexattr_setprioceiling.o  bin/pthread_mutexattr_getprioceiling.o  bin/pthread_mutex_destroy.o  bin/pthread_mutex_init.o  bin/pthread_mutex_trylock.o  bin/pthread_mutex_timedlock.o  bin/pthread_mutex.o  bin/pthread_mutex_unlock.o  bin/pthread_mutex_lock.o  bin/pthread_mutex_setprioceiling.o  bin/pthread_mutex_getprioceiling.o  bin/pthread_once.o  bin/pthread_yield.o  bin/pthread_atfork.o  bin/pthread_rwlockattr_init.o  bin/pthread_rwlockattr_destroy.o  bin/pthread_rwlockattr_getpshared.o  bin/pthread_rwlockattr_setpshared.o  bin/pthread_rwlock.o  bin/pthread_rwlock_rdlock.o  bin/pthread_rwlock_wrlock.o  bin/pthread_setcancelstate.o  bin/pthread_setcanceltype.o  bin/pthread_testcancel.o  bin/pthread_getcpuclockid.o  bin/pthread_self.o  bin/pthread_gettid_np.o  bin/pthread_concurrency.o  bin/pthread_mutex_consistent.o  bin/pthread_mutex_inconsistent.o  bin/lib_getpwnam.o  bin/lib_getpwnamr.o  bin/lib_getpwuid.o  bin/lib_getpwuidr.o  bin/lib_getpwent.o  bin/lib_getspnam.o  bin/lib_getpwbuf.o  bin/lib_getpwbufr.o  bin/queue.o  bin/sched_getprioritymax.o  bin/sched_getprioritymin.o  bin/clock_getcpuclockid.o  bin/task_cancelpt.o  bin/task_setcancelstate.o  bin/task_setcanceltype.o  bin/task_testcancel.o  bin/task_getpid.o  bin/sched_dumpstack.o  bin/sched_backtrace.o  bin/task_startup.o  bin/hcreate_r.o  bin/hcreate.o  bin/hash_func.o  bin/sem_init.o  bin/sem_setprotocol.o  bin/sem_getprotocol.o  bin/sem_getvalue.o  bin/sem_destroy.o  bin/sem_wait.o  bin/sem_trywait.o  bin/sem_timedwait.o  bin/sem_clockwait.o  bin/sem_post.o  bin/sig_ignore.o  bin/sig_interrupt.o  bin/sig_set.o  bin/sig_signal.o  bin/sig_addset.o  bin/sig_altstack.o  bin/sig_andset.o  bin/sig_delset.o  bin/sig_emptyset.o  bin/sig_fillset.o  bin/sig_hold.o  bin/sig_isemptyset.o  bin/sig_ismember.o  bin/sig_killpg.o  bin/sig_nandset.o  bin/sig_orset.o  bin/sig_pause.o  bin/sig_psignal.o  bin/sig_raise.o  bin/sig_relse.o  bin/sig_xorset.o  bin/sig_wait.o  bin/lib_psfa_addaction.o  bin/lib_psfa_addclose.o  bin/lib_psfa_adddup2.o  bin/lib_psfa_addopen.o  bin/lib_psfa_destroy.o  bin/lib_psfa_init.o  bin/lib_psa_getflags.o  bin/lib_psa_getschedparam.o  bin/lib_psa_getschedpolicy.o  bin/lib_psa_init.o  bin/lib_psa_setflags.o  bin/lib_psa_setschedparam.o  bin/lib_psa_setschedpolicy.o  bin/lib_psa_getsigmask.o  bin/lib_psa_setsigmask.o  bin/lib_psa_getstacksize.o  bin/lib_psa_setstacksize.o  bin/lib_psa_destroy.o  bin/lib_psa_getpriority.o  bin/lib_psa_setpriority.o  bin/lib_psa_getstackaddr.o  bin/lib_psa_setstackaddr.o  bin/lib_fileno.o  bin/lib_printf.o  bin/lib_sprintf.o  bin/lib_asprintf.o  bin/lib_snprintf.o  bin/lib_vsprintf.o  bin/lib_vasprintf.o  bin/lib_vsnprintf.o  bin/lib_dprintf.o  bin/lib_vdprintf.o  bin/lib_vprintf.o  bin/lib_perror.o  bin/lib_putchar.o  bin/lib_getchar.o  bin/lib_puts.o  bin/lib_gets_s.o  bin/lib_gets.o  bin/lib_libdgets.o  bin/lib_sscanf.o  bin/lib_vsscanf.o  bin/lib_remove.o  bin/lib_tempnam.o  bin/lib_tmpnam.o  bin/lib_renameat.o  bin/lib_putwchar.o  bin/lib_fopen.o  bin/lib_freopen.o  bin/lib_fclose.o  bin/lib_fread.o  bin/lib_libfread_unlocked.o  bin/lib_fseek.o  bin/lib_fseeko.o  bin/lib_ftell.o  bin/lib_ftello.o  bin/lib_fsetpos.o  bin/lib_getdelim.o  bin/lib_fgetpos.o  bin/lib_getc.o  bin/lib_fgetc.o  bin/lib_fgets.o  bin/lib_libfgets.o  bin/lib_fwrite.o  bin/lib_libfwrite.o  bin/lib_fflush.o  bin/lib_libflushall.o  bin/lib_libfflush.o  bin/lib_rdflush_unlocked.o  bin/lib_wrflush_unlocked.o  bin/lib_putc.o  bin/lib_fputc.o  bin/lib_fputs.o  bin/lib_ungetc.o  bin/lib_fprintf.o  bin/lib_vfprintf.o  bin/lib_feof.o  bin/lib_ferror.o  bin/lib_rewind.o  bin/lib_clearerr.o  bin/lib_scanf.o  bin/lib_vscanf.o  bin/lib_fscanf.o  bin/lib_vfscanf.o  bin/lib_tmpfile.o  bin/lib_setbuf.o  bin/lib_setvbuf.o  bin/lib_libfilelock.o  bin/lib_libgetstreams.o  bin/lib_setbuffer.o  bin/lib_fputwc.o  bin/lib_putwc.o  bin/lib_fputws.o  bin/lib_fopencookie.o  bin/lib_fmemopen.o  bin/lib_open_memstream.o  bin/lib_fgetwc.o  bin/lib_getwc.o  bin/lib_ungetwc.o  bin/lib_abs.o  bin/lib_abort.o  bin/lib_atof.o  bin/lib_atoi.o  bin/lib_getprogname.o  bin/lib_atol.o  bin/lib_atoll.o  bin/lib_div.o  bin/lib_ldiv.o  bin/lib_lldiv.o  bin/lib_exit.o  bin/lib_itoa.o  bin/lib_labs.o  bin/lib_llabs.o  bin/lib_realpath.o  bin/lib_bsearch.o  bin/lib_rand.o  bin/lib_rand48.o  bin/lib_qsort.o  bin/lib_srand.o  bin/lib_strtol.o  bin/lib_strtoll.o  bin/lib_strtoul.o  bin/lib_strtoull.o  bin/lib_strtold.o  bin/lib_checkbase.o  bin/lib_mktemp.o  bin/lib_mkstemp.o  bin/lib_mkdtemp.o  bin/lib_aligned_alloc.o  bin/lib_posix_memalign.o  bin/lib_valloc.o  bin/lib_mblen.o  bin/lib_mbtowc.o  bin/lib_wctomb.o  bin/lib_mbstowcs.o  bin/lib_wcstombs.o  bin/lib_atexit.o  bin/lib_reallocarray.o  bin/lib_arc4random.o  bin/lib_meminstream.o  bin/lib_memoutstream.o  bin/lib_memsistream.o  bin/lib_memsostream.o  bin/lib_lowoutstream.o  bin/lib_rawinstream.o  bin/lib_rawoutstream.o  bin/lib_rawsistream.o  bin/lib_rawsostream.o  bin/lib_zeroinstream.o  bin/lib_nullinstream.o  bin/lib_nulloutstream.o  bin/lib_mtdoutstream.o  bin/lib_libnoflush.o  bin/lib_libsnoflush.o  bin/lib_syslogstream.o  bin/lib_bufferedoutstream.o  bin/lib_hexdumpstream.o  bin/lib_base64outstream.o  bin/lib_mtdsostream.o  bin/lib_filesistream.o  bin/lib_fileoutstream.o  bin/lib_libosprintf.o  bin/lib_libbsprintf.o  bin/lib_libvscanf.o  bin/lib_libvsprintf.o  bin/lib_ultoa_invert.o  bin/lib_syslograwstream.o  bin/lib_stdinstream.o  bin/lib_stdoutstream.o  bin/lib_stdsistream.o  bin/lib_stdsostream.o  bin/lib_blkoutstream.o  bin/lib_ffs.o  bin/lib_ffsl.o  bin/lib_ffsll.o  bin/lib_fls.o  bin/lib_flsl.o  bin/lib_flsll.o  bin/lib_isbasedigit.o  bin/lib_memmem.o  bin/lib_popcount.o  bin/lib_popcountl.o  bin/lib_popcountll.o  bin/lib_skipspace.o  bin/lib_strcasecmp.o  bin/lib_strcspn.o  bin/lib_strdup.o  bin/lib_strerror.o  bin/lib_strncasecmp.o  bin/lib_strncat.o  bin/lib_strndup.o  bin/lib_strcasestr.o  bin/lib_strpbrk.o  bin/lib_strspn.o  bin/lib_strstr.o  bin/lib_strtok.o  bin/lib_strtokr.o  bin/lib_strsep.o  bin/lib_strerrorr.o  bin/lib_explicit_bzero.o  bin/lib_strsignal.o  bin/lib_index.o  bin/lib_rindex.o  bin/lib_timingsafe_bcmp.o  bin/lib_strverscmp.o  bin/lib_mempcpy.o  bin/lib_rawmemchr.o  bin/lib_bzero.o  bin/lib_memmove.o  bin/lib_strlcat.o  bin/lib_strlcpy.o  bin/lib_strnlen.o  bin/lib_memcpy.o  bin/lib_memccpy.o  bin/lib_memcmp.o  bin/lib_memrchr.o  bin/lib_stpncpy.o  bin/lib_strchr.o  bin/lib_strcmp.o  bin/lib_strlen.o  bin/lib_strncpy.o  bin/lib_memchr.o  bin/lib_stpcpy.o  bin/lib_strcat.o  bin/lib_strchrnul.o  bin/lib_strcpy.o  bin/lib_strncmp.o  bin/lib_strrchr.o  bin/lib_memset.o  bin/symtab_findbyname.o  bin/symtab_findbyvalue.o  bin/symtab_sortbyname.o  bin/lib_syslog.o  bin/lib_setlogmask.o  bin/lib_cfspeed.o  bin/lib_cfmakeraw.o  bin/lib_isatty.o  bin/lib_tcflush.o  bin/lib_tcdrain.o  bin/lib_tcflow.o  bin/lib_tcgetattr.o  bin/lib_tcsetattr.o  bin/lib_tcsendbreak.o  bin/lib_ttyname.o  bin/lib_ttynamer.o  bin/lib_strftime.o  bin/lib_calendar2utc.o  bin/lib_daysbeforemonth.o  bin/lib_gettimeofday.o  bin/lib_isleapyear.o  bin/lib_settimeofday.o  bin/lib_time.o  bin/lib_timespec_get.o  bin/lib_nanosleep.o  bin/lib_difftime.o  bin/lib_dayofweek.o  bin/lib_asctime.o  bin/lib_asctimer.o  bin/lib_ctime.o  bin/lib_ctimer.o  bin/lib_gethrtime.o  bin/lib_timegm.o  bin/lib_gmtime.o  bin/lib_gmtimer.o  bin/tls_getinfo.o  bin/tls_destruct.o  bin/lib_preadv.o  bin/lib_pwritev.o  bin/lib_access.o  bin/lib_daemon.o  bin/lib_swab.o  bin/lib_pathconf.o  bin/lib_sysconf.o  bin/lib_getcwd.o  bin/lib_getentropy.o  bin/lib_getopt_common.o  bin/lib_getopt.o  bin/lib_getopt_long.o  bin/lib_getopt_longonly.o  bin/lib_getoptvars.o  bin/lib_getoptargp.o  bin/lib_getopterrp.o  bin/lib_getoptindp.o  bin/lib_getoptoptp.o  bin/lib_times.o  bin/lib_alarm.o  bin/lib_fstatvfs.o  bin/lib_statvfs.o  bin/lib_sleep.o  bin/lib_nice.o  bin/lib_setreuid.o  bin/lib_setregid.o  bin/lib_getrusage.o  bin/lib_utime.o  bin/lib_utimes.o  bin/lib_setrlimit.o  bin/lib_getrlimit.o  bin/lib_setpriority.o  bin/lib_getpriority.o  bin/lib_futimes.o  bin/lib_lutimes.o  bin/lib_gethostname.o  bin/lib_sethostname.o  bin/lib_fchownat.o  bin/lib_linkat.o  bin/lib_readlinkat.o  bin/lib_symlinkat.o  bin/lib_unlinkat.o  bin/lib_usleep.o  bin/lib_getpgrp.o  bin/lib_getpgid.o  bin/lib_lockf.o  bin/lib_flock.o  bin/lib_getpass.o  bin/lib_confstr.o  bin/lib_ulimit.o  bin/lib_setuid.o  bin/lib_setgid.o  bin/lib_getuid.o  bin/lib_getgid.o  bin/lib_seteuid.o  bin/lib_setegid.o  bin/lib_geteuid.o  bin/lib_getegid.o  bin/lib_chdir.o  bin/lib_fchdir.o  bin/lib_restoredir.o  bin/lib_truncate.o  bin/lib_posix_fallocate.o  bin/lib_fork.o  bin/lib_uuid_compare.o  bin/lib_uuid_create.o  bin/lib_uuid_create_nil.o  bin/lib_uuid_equal.o  bin/lib_uuid_from_string.o  bin/lib_uuid_hash.o  bin/lib_uuid_is_nil.o  bin/lib_uuid_stream.o  bin/lib_uuid_to_string.o  bin/lib_wcscmp.o  bin/lib_wcslen.o  bin/lib_wmemchr.o  bin/lib_wmemcmp.o  bin/lib_wmemcpy.o  bin/lib_wmemmove.o  bin/lib_wmemset.o  bin/lib_btowc.o  bin/lib_mbrtowc.o  bin/lib_wctob.o  bin/lib_wcslcpy.o  bin/lib_wcsxfrm.o  bin/lib_wcrtomb.o  bin/lib_wcsftime.o  bin/lib_wcscoll.o  bin/lib_wcstol.o  bin/lib_wcstoll.o  bin/lib_wcstoul.o  bin/lib_wcstoull.o  bin/lib_wcstold.o  bin/lib_wcstof.o  bin/lib_wcstod.o  bin/lib_swprintf.o  bin/lib_mbsnrtowcs.o  bin/lib_wcsnrtombs.o  bin/lib_mbsinit.o  bin/lib_mbrlen.o  bin/lib_mbsrtowcs.o  bin/lib_wcsrtombs.o  bin/lib_wcscpy.o  bin/lib_wcscat.o  bin/lib_wcslcat.o  bin/lib_wcsncat.o  bin/lib_wcsrchr.o  bin/lib_wcschr.o  bin/lib_wcsncpy.o  bin/lib_wcsncmp.o  bin/lib_wcscspn.o  bin/lib_wcspbrk.o  bin/lib_wcsspn.o  bin/lib_wcsstr.o  bin/lib_wcstok.o  bin/lib_wcswcs.o  bin/lib_wcwidth.o  bin/lib_wcswidth.o  bin/lib_wctype.o  bin/lib_iswctype.o  bin/lib_towlower.o  bin/lib_towupper.o
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/libs/libc'
+IN: libs/libc/libc.a -> staging/libc.a 
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/mm'
+make[1]: 'libmm.a' is up to date.
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/mm'
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/arch/risc-v/src'
+make[1]: 'libarch.a' is up to date.
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/arch/risc-v/src'
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/libs/libm'
+make[1]: 'libm.a' is up to date.
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/libs/libm'
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/libs/libxx'
+make[1]: 'libxx.a' is up to date.
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/libs/libxx'
+make[1]: Entering directory '/home/max/openvela-p4-integration/apps'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/builtin'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/builtin'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/examples/camera_diag'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/examples/camera_diag'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/examples/imx219_probe'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/examples/imx219_probe'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/math/gemmlowp'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/math/gemmlowp'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/math/kissfft'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/math/kissfft'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/math/ruy'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/math/ruy'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/mlearning/tflite-micro'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/mlearning/tflite-micro'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/nshlib'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/nshlib'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/platform'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/platform'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/system/dumpstack'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/system/dumpstack'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/system/flatbuffers'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/system/flatbuffers'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/system/nsh'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/system/nsh'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/system/readline'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/system/readline'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/testing/ostest'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/testing/ostest'
+make[2]: Entering directory '/home/max/openvela-p4-integration/apps/testing/sched/getprime'
+make[2]: Leaving directory '/home/max/openvela-p4-integration/apps/testing/sched/getprime'
+make[1]: Leaving directory '/home/max/openvela-p4-integration/apps'
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/fs'
+make[1]: 'libfs.a' is up to date.
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/fs'
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/binfmt'
+make[1]: 'libbinfmt.a' is up to date.
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/binfmt'
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/boards/risc-v/esp32p4/common'
+CC:  board/esp32p4_boot.c 
+riscv32-unknown-elf-ar rcs  libboard.a    esp32p4_boot.o esp32p4_bringup.o esp32p4_reset.o esp32p4_appinit.o 
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/boards/risc-v/esp32p4/common'
+IN: arch/risc-v/src/board/libboard.a -> staging/libboard.a 
+make[1]: Entering directory '/home/max/openvela-p4-integration/nuttx/arch/risc-v/src'
+make[2]: Entering directory '/home/max/openvela-p4-integration/nuttx/boards/risc-v/esp32p4/common'
+make[2]: 'libboard.a' is up to date.
+make[2]: Leaving directory '/home/max/openvela-p4-integration/nuttx/boards/risc-v/esp32p4/common'
+CPP:  /home/max/openvela-p4-integration/nuttx/boards/risc-v/esp32p4/esp32p4-function-ev-board/../common/scripts/esp32p4_aliases.ld-> /home/max/openvela-p4-integration/nuttx/boards/risc-v/esp32p4/esp32p4-function-ev-board/../common/scripts/esp32p4_aliases.ld.tmp 
+CPP:  /home/max/openvela-p4-integration/nuttx/boards/risc-v/esp32p4/esp32p4-function-ev-board/../common/scripts/esp32p4_flat_memory.ld-> /home/max/openvela-p4-integration/nuttx/boards/risc-v/esp32p4/esp32p4-function-ev-board/../common/scripts/esp32p4_flat_memory.ld.tmp 
+CPP:  /home/max/openvela-p4-integration/nuttx/boards/risc-v/esp32p4/esp32p4-function-ev-board/../common/scripts/esp32p4_sections.rev3.ld-> /home/max/openvela-p4-integration/nuttx/boards/risc-v/esp32p4/esp32p4-function-ev-board/../common/scripts/esp32p4_sections.rev3.ld.tmp 
+CPP:  /home/max/openvela-p4-integration/nuttx/arch/risc-v/src/chip/esp-hal-3rdparty/components/esp_rom/esp32p4/ld/esp32p4.rom.eco5.ld-> /home/max/openvela-p4-integration/nuttx/arch/risc-v/src/chip/esp-hal-3rdparty/components/esp_rom/esp32p4/ld/esp32p4.rom.eco5.ld.tmp 
+CPP:  /home/max/openvela-p4-integration/nuttx/arch/risc-v/src/chip/esp-hal-3rdparty/components/esp_rom/esp32p4/ld/esp32p4.rom.eco5.libc.ld-> /home/max/openvela-p4-integration/nuttx/arch/risc-v/src/chip/esp-hal-3rdparty/components/esp_rom/esp32p4/ld/esp32p4.rom.eco5.libc.ld.tmp 
+CPP:  /home/max/openvela-p4-integration/nuttx/arch/risc-v/src/chip/esp-hal-3rdparty/components/esp_rom/esp32p4/ld/esp32p4.rom.eco5.libgcc.ld-> /home/max/openvela-p4-integration/nuttx/arch/risc-v/src/chip/esp-hal-3rdparty/components/esp_rom/esp32p4/ld/esp32p4.rom.eco5.libgcc.ld.tmp 
+CPP:  /home/max/openvela-p4-integration/nuttx/arch/risc-v/src/chip/esp-hal-3rdparty/components/esp_rom/esp32p4/ld/esp32p4.rom.eco5.newlib.ld-> /home/max/openvela-p4-integration/nuttx/arch/risc-v/src/chip/esp-hal-3rdparty/components/esp_rom/esp32p4/ld/esp32p4.rom.eco5.newlib.ld.tmp 
+CPP:  /home/max/openvela-p4-integration/nuttx/arch/risc-v/src/chip/esp-hal-3rdparty/components/esp_rom/esp32p4/ld/esp32p4.rom.api.ld-> /home/max/openvela-p4-integration/nuttx/arch/risc-v/src/chip/esp-hal-3rdparty/components/esp_rom/esp32p4/ld/esp32p4.rom.api.ld.tmp 
+CPP:  /home/max/openvela-p4-integration/nuttx/arch/risc-v/src/chip/esp-hal-3rdparty/components/esp_rom/esp32p4/ld/esp32p4.rom.version.ld-> /home/max/openvela-p4-integration/nuttx/arch/risc-v/src/chip/esp-hal-3rdparty/components/esp_rom/esp32p4/ld/esp32p4.rom.version.ld.tmp 
+CPP:  /home/max/openvela-p4-integration/nuttx/arch/risc-v/src/chip/esp-hal-3rdparty/components/esp_rom/esp32p4/ld/esp32p4.rom.libc-suboptimal_for_misaligned_mem.ld-> /home/max/openvela-p4-integration/nuttx/arch/risc-v/src/chip/esp-hal-3rdparty/components/esp_rom/esp32p4/ld/esp32p4.rom.libc-suboptimal_for_misaligned_mem.ld.tmp 
+CPP:  /home/max/openvela-p4-integration/nuttx/arch/risc-v/src/chip/esp-hal-3rdparty/components/esp_rom/esp32p4/ld/esp32p4.rom.systimer.ld-> /home/max/openvela-p4-integration/nuttx/arch/risc-v/src/chip/esp-hal-3rdparty/components/esp_rom/esp32p4/ld/esp32p4.rom.systimer.ld.tmp 
+CPP:  /home/max/openvela-p4-integration/nuttx/arch/risc-v/src/chip/esp-hal-3rdparty/components/soc/esp32p4/ld/esp32p4.peripherals.ld-> /home/max/openvela-p4-integration/nuttx/arch/risc-v/src/chip/esp-hal-3rdparty/components/soc/esp32p4/ld/esp32p4.peripherals.ld.tmp 
+CPP:  /home/max/openvela-p4-integration/nuttx/arch/risc-v/src/chip/esp-hal-3rdparty/components/riscv/ld/rom.api.ld-> /home/max/openvela-p4-integration/nuttx/arch/risc-v/src/chip/esp-hal-3rdparty/components/riscv/ld/rom.api.ld.tmp 
+LD: nuttx
+Memory region         Used Size  Region Size  %age Used
+   tcm_idram_seg:         104 B         8 KB      1.27%
+        irom_seg:      250970 B        64 MB      0.37%
+        sram_seg:       82596 B     978880 B      8.44%
+        drom_seg:      340520 B        64 MB      0.51%
+rev3_mspi_workaround_seg:           0 B          0 B
+      lp_ram_seg:         104 B      32744 B      0.32%
+ lp_reserved_seg:          24 B         24 B    100.00%
+  extern_ram_seg:       1800 KB        64 MB      2.75%
+make[1]: Leaving directory '/home/max/openvela-p4-integration/nuttx/arch/risc-v/src'
+CP: nuttx.hex
+MKIMAGE: NuttX binary
+esptool.py -c esp32p4 elf2image --ram-only-header -fs 16MB -fm dio -ff 80m -o nuttx.bin nuttx
+Warning: DEPRECATED: 'esptool.py' is deprecated. Please use 'esptool' instead. The '.py' suffix will be removed in a future major release.
+esptool v5.3.1
+Creating ESP32-P4 image...
+Image has only RAM segments visible. ROM segments are hidden and SHA256 digest is not appended.
+Merged 2 ELF sections.
+Successfully created ESP32-P4 image.
+Generated: nuttx.bin

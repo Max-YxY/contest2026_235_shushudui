@@ -1,0 +1,55 @@
+uch_diag: status=0x81
+touch_diag: point id=0 x=214 y=389 display_x=810 display_y=200
+dsi: touch press x=810 y=200
+touch_diag: status=0x80
+dsi: touch release restored UI
+touch_diag: status=0x00
+touch_diag: status=0x81
+touch_diag: point id=0 x=353 y=201 display_x=667 display_y=408
+dsi: touch press x=667 y=408
+touch_diag: status=0x80
+dsi: touch release restored UI
+touch_diag: status=0x00
+touch_diag: status=0x81
+touch_diag: point id=0 x=213 y=271 display_x=811 display_y=331
+dsi: touch press x=811 y=331
+touch_diag: status=0x80
+dsi: touch release restored UI
+touch_diag: status=0x00
+touch_diag: status=0x81
+touch_diag: point id=0 x=263 y=187 display_x=760 display_y=424
+dsi: touch press x=760 y=424
+touch_diag: status=0x80
+dsi: touch release restored UI
+touch_diag: status=0x00
+touch_diag: status=0x81
+touch_diag: point id=0 x=562 y=382 display_x=450 display_y=207
+dsi: touch press x=450 y=207
+touch_diag: status=0x80
+dsi: touch release restored UI
+touch_diag: status=0x81
+touch_diag: point id=0 x=579 y=326 display_x=433 display_y=270
+dsi: touch press x=433 y=270
+touch_diag: status=0x80
+dsi: touch release restored UI
+touch_diag: status=0x81
+touch_diag: point id=0 x=620 y=264 display_x=390 display_y=338
+dsi: touch press x=390 y=338
+touch_diag: status=0x80
+dsi: touch release restored UI
+touch_diag: status=0x81
+touch_diag: point id=0 x=649 y=220 display_x=360 display_y=387
+dsi: touch press x=360 y=387
+touch_diag: status=0x80
+dsi: touch release restored UI
+touch_diag: status=0x81
+touch_diag: point id=0 x=663 y=114 display_x=346 display_y=505
+dsi: touch press x=346 y=505
+touch_diag: status=0x80
+dsi: touch release restored UI
+touch_diag: status=0x81
+touch_diag: point id=0 x=667 y=37 display_x=342 display_y=591
+dsi: touch press x=342 y=591
+touch_diag: status=0x80
+dsi: touch release restored UI
+touch_diag: status=0x00

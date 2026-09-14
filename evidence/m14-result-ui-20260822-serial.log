@@ -1,0 +1,33 @@
+ESP32-P4 OpenVela M14 inference-to-display physical-board validation
+Date: 2026-08-22
+
+Build and Flash:
+  Artifact: openvela-vm-jul:/home/max/openvela-p4-integration/artifacts/m14-result-ui-20260822/nuttx-m14-result-ui-20260822.bin
+  SHA-256: 8cc47901476f6f0821df99c0e044c4915fbf294dcb1874e1a4feae4f87836e8b
+  Application write: 0x2000 only, 444016 bytes.
+  External model container: 0xE0000 was not modified.
+  esptool result: Hash of data verified.
+
+Physical-board regression command:
+  camera_diag --isp-frame
+
+Acceptance output:
+  camera_diag: FRAME 1/3 len=1228800 rgb565
+  camera_diag: FRAME 2/3 len=1228800 rgb565
+  camera_diag: FRAME 3/3 len=1228800 rgb565
+  tflm_preprocess: rc=0 bytes=196608
+  tflm_decode: top_anchor=1315 class=8 score_raw=-107 threshold_raw=-5 accepted=0 nms_kept=0
+  tflm_invoke: status=0 elapsed_ms=112010 output_type=9 bytes=18816 dims=1,14,1344
+  camera_diag: ISP_SUSTAINED 3/3 frames completed
+  camera_diag: status UI restored rc=0
+  dsi: inference result candidates=0
+  camera_diag: inference result UI rc=0 candidates=0
+  nsh>
+
+Display contract:
+  After every real-frame transaction the persistent UI is recreated first. The
+  M14 update redraws only the result card and synchronizes that rectangle. A
+  no-candidate result is rendered as "INFERENCE COMPLETE / NO VALID CANDIDATE
+  / RESULT AWAITS VALIDATION", not as a business PASS. While a touch press is
+  active the setter returns busy, preserving the frozen backup-and-restore
+  touch feedback behavior.

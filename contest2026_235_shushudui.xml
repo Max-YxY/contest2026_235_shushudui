@@ -9,8 +9,7 @@
   <include name="openvela.xml"/>
 
   <project path="contest2026_235_shushudui" name="contest2026_235_shushudui">
-    <linkfile src="app/hello_app" dest="packages/demos/contest2026_235_hello_app"/>
-    <linkfile src="quickapp/hello_quickapp" dest="packages/apps/contest2026_235_hello_quickapp"/>
+    <linkfile src="app/camera_diag" dest="packages/demos/contest2026_235_camera_diag"/>
     <linkfile src="board/contest_board" dest="vendor/openvela/boards/contest2026_235_board"/>
   </project>
 </manifest>

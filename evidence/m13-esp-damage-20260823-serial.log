@@ -1,0 +1,32 @@
+camera_diag --tflm-validation-sample damage
+camera_diag: ESP validation sample=damage bytes=131072
+tflm_preprocess: rc=0 checksum=0xdb71b350 min=-128 max=127 bytes=196608
+camera_diag: starting persistent status UI for touch feedback
+dsi: fb=0x48cd7c80 bytes=1228800
+dsi: PHY PLL locked
+dsi: lanes stopped
+dsi: dpi config done (dpi_div=5 fb_bytes=1228800)
+dsi: ek79007 init cmds sent (8 cmds)
+dsi: minimal status UI drawn (1024x600 RGB565)
+dsi: pattern mode=4 drawn (1024x600 RGB565)
+dsi: gdma ch1 one-shot-lli started (fb=0x48cd7c80 items=153600 lli=0x4ff5ae00)
+dsi: host@start pwr=0x00000001 mode=0x00000000 vid=0x0000ff02 pkt=0x00000400 hsa=0x0000001a hbp=0x00000139 hline=0x00000cf6 vsa=0x00000001 vbp=0x00000014 vfp=0x0000000a vact=0x00000258
+dsi: host@start active_vid=0x00000000 active_pkt=0x00000000 active_hline=0x00000000 active_vact=0x00000000 phy_rstz=0x0000000f phy_if=0x00003f01 phy_status=0x000015bd lpclk=0x00000003
+dsi: host@start int0=0x00100000 int1=0x00000000 mask0=0x00000000 mask1=0x00000000
+dsi: panel refresh started, holding 4294967295 ms...
+dsi: diag@t0 gdma_tr=0 gdma_intr=0x00000010 fifo_depth=829 fifo_stat=0x0000033d
+dsi: lli head=0x4ff5ae00 current=0x00000000 w0=48cd7c80 w1=00000000 w2=50105000 w3=00000000 w4=000257ff w5=00000000 w6=00000001 w7=00000000
+dsi: lli w8=001e1b41 w9=c00f87c0 w10=00000000 w11=00000000 w12=000257ff w13=c0000000 w14=00000000 w15=00000000
+dsi: persistent status UI active
+touch_diag: GT911 product=911 address=0x5d I2C0 GPIO8/7
+touch_diag: poll continuously; touch the panel to report coordinates and show display feedback
+touch_diag: status=0x00
+tflm_decode: top_anchor=1293 class=8 name=label defect=0 score_raw=44 threshold_raw=-5 accepted=1 nms_kept=4 defects=2
+tflm_nms: class=8 name=label defect=0 score_raw=44 box_q=87,91,158,171
+tflm_nms: class=5 name=stain defect=1 score_raw=40 box_q=89,87,65,108
+tflm_nms: class=4 name=level_5 defect=0 score_raw=33 box_q=86,81,12,9
+tflm_nms: class=6 name=damage defect=1 score_raw=6 box_q=95,110,43,42
+tflm_invoke: status=0 elapsed_ms=111940 output_type=9 bytes=18816 scale=*float* zero_point=-128 raw_min=-128 raw_max=59 checksum=0x1ecd2658 dims=1,14,1344
+dsi: inference result candidates=2
+camera_diag: ESP validation sample=damage rc=0 defects=2
+nsh> [K
