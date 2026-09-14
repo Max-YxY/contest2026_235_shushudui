@@ -1,0 +1,2 @@
+name: openvela-esp32p4-build
+description: ESP32-P4 OpenVela 固件远程编译、烧录与串口调试工作流
