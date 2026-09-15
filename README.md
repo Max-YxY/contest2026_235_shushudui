@@ -1,6 +1,6 @@
 # 基于 openvela 的 ESP32-P4 能效标签 AI 质检终端
 
-**队伍：shushudui（蜀黍队） | 赛道：AI 硬件产品创新 | 仓库：contest2026_235_shushudui**
+**队伍：shushudui（鼠鼠队） | 赛道：新硬件平台适配 | 仓库：contest2026_235_shushudui**
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## 二、选题方向
 
-**AI 硬件产品创新**。本作品基于 openvela 操作系统，在全新硬件平台（ESP32-P4）上完成了完整的 BSP 适配、多媒体驱动开发、AI 推理运行时集成和应用开发，是一次从底层到应用的全栈 AI 硬件创新实践。
+**新硬件平台适配**。本作品选择官方待适配开发板 ESP32-P4X-Function-EV-Board，基于 openvela 操作系统完成了从底层 BSP 移植、外设驱动适配（MIPI-CSI/ISP 相机、MIPI-DSI 显示、GT911 I2C 触摸、PSRAM 内存映射）到系统构建的全链路适配，使 openvela 在该 RISC-V 平台上正常启动并运行核心功能，并在适配基础上开发了端侧 AI 质检应用 Demo，形成从板级启动到应用闭环的完整验证。
 
 ---
 
